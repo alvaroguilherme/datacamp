@@ -9,3 +9,6 @@ It's a code in SQL. Is one of the projects of the SQL course.
 
 ## Joining Data (SQL)
 It's many codes and explanations about JOINs, set operatons and subqueries in SQL.
+
+## Evaluate Manufacturing Process (SQL)
+It's a code in SQL. Is one of the projects of the SQL course.
