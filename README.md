@@ -12,3 +12,6 @@ It's many codes and explanations about JOINs, set operatons and subqueries in SQ
 
 ## Evaluate Manufacturing Process (SQL)
 It's a code in SQL. Is one of the projects of the SQL course.
+
+## Analyzing Motorcycle Part Sales (SQL)
+It's a code in SQL. Is one of the projects of the SQL course.
